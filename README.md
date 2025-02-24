@@ -12,7 +12,9 @@
 
 ### 我的技能
 
-- **编程语言与框架：**  
+- **编程语言与框架：**
+   ![Linux](https://img.shields.io/badge/Linux-00A400?style=for-the-badge&logo=linux&logoColor=white)
+   ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
    ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -21,6 +23,10 @@
    ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
    ![TiDB](https://img.shields.io/badge/TiDB-47A6FF?style=for-the-badge&logo=tidb&logoColor=white)
    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+   ![GPU](https://img.shields.io/badge/GPU-FF6F00?style=for-the-badge&logo=nvidia&logoColor=white)
+   ![LLM](https://img.shields.io/badge/LLM-03A9F4?style=for-the-badge&logo=appveyor&logoColor=white)
+   ![Deep Learning](https://img.shields.io/badge/DeepLearning-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 
 - **技术与协议：**  
    - 实时视频推流技术：RMTP，RTSP  
