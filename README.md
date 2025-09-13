@@ -3,7 +3,7 @@
 - 🔭 我目前在从事一些酷的软硬件项目，是一个全栈工程师，专注于AI面部驱动。
 - 🌱 我不断学习机器学习、网络协议等技术。
 - 💬 关于 Java、Python、C/C++、Go 或 Linux 系统网络运维管理，欢迎随时提问。
-- 📫 联系我: cubo@bitrec.ai
+- 📫 联系我: logan@binrc.com
 - 😄 查看我的博客: [CSDN](https://blog.csdn.net/qq_41063142?type=blog)
 
 ![](https://github-readme-stats.vercel.app/api?username=cuboart&show_icons=true&theme=transparent)
