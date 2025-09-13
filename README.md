@@ -1,4 +1,4 @@
-### 你好， 我是 Cubo 👋
+### 你好， 我是 Logan 👋
 
 - 🔭 我目前在从事一些酷的软硬件项目，是一个全栈工程师，专注于AI面部驱动。
 - 🌱 我不断学习机器学习、网络协议等技术。
@@ -8,7 +8,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=cuboart&show_icons=true&theme=transparent)
 
-你是我的 ![Visitor Count](https://profile-counter.glitch.me/cuboart/count.svg) 位访客，感谢你！ 😘
+你是我的 ![Visitor Count](https://profile-counter.glitch.me/loganchef/count.svg) 位访客，感谢你！ 😘
 
 ### 我的技能
 
